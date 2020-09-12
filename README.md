@@ -9,10 +9,10 @@ Install dependencies like react-redux, classnames,react-router-dom,react-scripts
 
 ##### Program Execution Locally: 
 Go main folder Login_Ract_Redux-master and execute below command in your terminal to install the node modules.
-npm install
-----
+- npm install
+
 Run below command to run the app on the server in http://localhost:3000 port.
-npm start
+- npm start
 
 ##### How to Login:
 Use The Email id: hruday@gmail.com and Password:hruday123 to login, and you will get access to /dashboard  

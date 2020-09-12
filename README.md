@@ -10,7 +10,8 @@ Install dependencies like react-redux, classnames,react-router-dom,react-scripts
 ##### Program Execution Locally: 
 Go main folder Login_Ract_Redux-master and execute below command in your terminal to install the node modules.
 npm install
-Run below command to execute the tracker on the server in http://localhost:3000 port.
+----
+Run below command to run the app on the server in http://localhost:3000 port.
 npm start
 
 ##### How to Login:

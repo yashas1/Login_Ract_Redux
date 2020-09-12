@@ -1,0 +1,4 @@
+export const GET_EMPLOYEE = 'GET_EMPLOYEE';
+export const PASSWORD_WRONG = 'PASSWORD_WRONG';
+export const EMAIL_WRONG = 'EMAIL_WRONG';
+export const SET_CURRENT_USER = 'SET_CURRENT_USER';
